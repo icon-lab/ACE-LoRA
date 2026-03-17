@@ -23,7 +23,7 @@
 </div><br/>
 
 ## :tada: News
-**`2026/03/15` Our paper and code are publicly available.**  
+**`2026/03/18` Our paper and code are publicly available.**  
 
 ## ⚙️ Installation
 We used ```Python 3.10.18``` and ```PyTorch 2.1.0``` using ```cuda 11.8``` in our framework.
