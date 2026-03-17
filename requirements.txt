@@ -1,0 +1,15 @@
+activations==0.1.0
+matplotlib==3.10.7
+numpy==1.26.4
+open_clip_torch==2.23.0
+packaging==25.0
+pandas==2.3.3
+Pillow==12.0.0
+pydicom==3.0.1
+pytorch_utils==0.5.5
+scikit_learn==1.7.2
+timm==0.9.7
+torchinfo==1.8.0
+torchmetrics==1.6.1
+tqdm==4.65.2
+transformers==4.47.1

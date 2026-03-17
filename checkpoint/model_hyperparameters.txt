@@ -1,0 +1,25 @@
+seed : 1 
+root_path :  
+lr : 0.001 
+num_epochs : 40 
+batch_size : 64 
+position : all 
+loss_type : clip_loss_ace_hgnn 
+params : ['q', 'k', 'v'] 
+r : 4 
+alpha : 1 
+dropout_rate : 0.1 
+save_path :./ACE-LoRA 
+filename : ACE-LoRA_weights 
+eval : True 
+context_length : 256 
+csv_path : ./mimic_cxr.csv 
+label_csv_path : mimic-cxr-chexpert_labeled_data.csv 
+use_labels : True 
+learnable_logit_scale : True 
+topk : 5 
+hidden_features : 128 
+output_dim : 512 
+apply_gnn_encoders : both 
+rank : 0 
+num_devices : 3 
