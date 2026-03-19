@@ -10,9 +10,16 @@
   <a href="https://aykut.koc.bilkent.edu.tr/" target="_blank">Aykut&nbsp;Koç</a><sup>1,2</sup> &ensp; <b>&middot;</b> &ensp;
   <a href="https://kilyos.ee.bilkent.edu.tr/~cukur/" target="_blank">Tolga&nbsp;Çukur</a><sup>1,2</sup> &ensp;
   
-  <span></span>
+  <br>
   
-  <sup>1</sup>Bilkent University &emsp; <sup>2</sup>UMRAM <br>
+  <sup>1</sup>Bilkent University &emsp; <sup>2</sup>UMRAM 
+
+  <br>
+  <br>
+
+  <a href="https://arxiv.org/pdf/2603.17079">
+    <img src="https://img.shields.io/badge/arXiv-2603.17079-b31b1b.svg" alt="arXiv">
+  </a>
 </div>
 <hr>
 
