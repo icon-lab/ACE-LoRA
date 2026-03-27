@@ -19,6 +19,9 @@
 
   <a href="https://arxiv.org/pdf/2603.17079">
     <img src="https://img.shields.io/badge/arXiv-2603.17079-b31b1b.svg" alt="arXiv">
+  </a> 
+  <a href="https://huggingface.co/aydnarda/ACE-LoRA">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-FFD21E" alt="Hugging Face">
   </a>
 </div>
 <hr>
