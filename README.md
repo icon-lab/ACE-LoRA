@@ -85,9 +85,6 @@ We also provide the ACE-LoRA weights trained on the MIMIC-CXR dataset (```checkp
 python zero_shot_eval/zero_shot_eval_ace_lora_chexpert.py
 ```
 
-## 🤝 Acknowledgments
-This implementation builds upon [CLIP-LoRA](https://github.com/MaxZanella/CLIP-LoRA) and [LoRA](https://github.com/microsoft/LoRA). We gratefully acknowledge their valuable contributions.
-
 ## ✒️ Citation
 You are encouraged to modify/distribute this code. However, please acknowledge this code and cite the paper appropriately.
 ```
@@ -98,6 +95,9 @@ You are encouraged to modify/distribute this code. However, please acknowledge t
   year={2026}
 }
 ```
+
+## 🤝 Acknowledgments
+This implementation builds upon [CLIP-LoRA](https://github.com/MaxZanella/CLIP-LoRA) and [LoRA](https://github.com/microsoft/LoRA). We gratefully acknowledge their valuable contributions.
 
 <hr>
 
