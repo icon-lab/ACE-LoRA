@@ -87,3 +87,18 @@ python zero_shot_eval/zero_shot_eval_ace_lora_chexpert.py
 
 ## 🤝 Acknowledgments
 This implementation builds upon [CLIP-LoRA](https://github.com/MaxZanella/CLIP-LoRA) and [LoRA](https://github.com/microsoft/LoRA). We gratefully acknowledge their valuable contributions.
+
+## ✒️ Citation
+You are encouraged to modify/distribute this code. However, please acknowledge this code and cite the paper appropriately.
+```
+@article{aydin2026ace,
+  title={ACE-LoRA: Graph-Attentive Context Enhancement for Parameter-Efficient Adaptation of Medical Vision-Language Models},
+  author={Ayd{\i}n, M Arda and Yilmaz, Melih B and Ko{\c{c}}, Aykut and {\c{C}}ukur, Tolga},
+  journal={arXiv preprint arXiv:2603.17079},
+  year={2026}
+}
+```
+
+<hr>
+
+Copyright © 2026, ICON Lab.
