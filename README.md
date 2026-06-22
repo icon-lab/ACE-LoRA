@@ -66,6 +66,8 @@ pip install -r requirements.txt
 
 **LC25000:** We use the LC25000 dataset for histopathology zero-shot classification. The dataset can be accessed at the following link: [[`link`](https://github.com/tampapath/lung_colon_image_set)].
 
+**MHIST:** We use the MHIST dataset for histopathology zero-shot classification. The dataset can be accessed at the following link: [[`link`](https://bmirds.github.io/MHIST)].
+
 
 ## 🚀 Training
 To fine-tune the model, run the following command for single-GPU training:
