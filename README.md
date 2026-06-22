@@ -64,6 +64,8 @@ pip install -r requirements.txt
 
 **SIIM:** We use the SIIM dataset for both zero-shot classification and semantic segmentation. The dataset can be accessed at the following link: [[`link`](https://www.kaggle.com/competitions/siim-acr-pneumothorax-segmentation/data)]. After downloading, run ```dataset_prep/SIIM_generate_class_labels.py``` to prepare the data for zero-shot classification, and ```dataset_prep/SIIM_generate_mask.py``` for semantic segmentation.
 
+**LC25000:** We use the LC25000 dataset for histopathology zero-shot classification. The dataset can be accessed at the following link: [[`link`](https://github.com/tampapath/lung_colon_image_set)].
+
 
 ## 🚀 Training
 To fine-tune the model, run the following command for single-GPU training:
